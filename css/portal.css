@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color:lightcyan;
+    font-family: 'ariel', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -15,14 +15,14 @@ html {
 }
 
 h1 {
-    font-weight: normal;
+    font-weight:bold;
     margin: auto;
-    background: #fff;
+    background:skyblue;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color:lightcyan;
     overflow: auto;
 }
 
